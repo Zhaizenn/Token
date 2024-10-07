@@ -1,0 +1,11 @@
+In a passage of text, individual words and
+punctuation marks are called tokens lexical
+unite or lexical elements.
+The smallest individual unit in a program is
+called token.
+Python has the following tokens:
+▪ Keyword
+▪ Identifiers
+▪ Literals
+▪ Operators
+▪ Punctuators
